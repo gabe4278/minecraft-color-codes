@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["minecraft", "colors", "color codes" "chat colors", "chat codes"],
+  "keywords": ["minecraft", "colors", "color codes", "chat colors", "chat codes"],
   "author": "gabe4278",
   "license": "ISC",
   "dependencies": {
