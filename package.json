@@ -1,13 +1,13 @@
 {
   "name": "mccolorcodes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Convert Minecraft color codes to ANSI color/font style in your command line",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["minecraft", "colors", "color codes" "chat colors", "chat codes"],
+  "author": "gabe4278",
   "license": "ISC",
   "dependencies": {
     "replaceall": "^0.1.6"
