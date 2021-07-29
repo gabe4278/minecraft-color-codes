@@ -21,6 +21,7 @@ module.exports = function(text, includeAndChar) {
 	text = replaceAll(`${pre}d`, "\x1B[95m", text);
 	text = replaceAll(`${pre}e`, "\x1B[93m", text);
 	text = replaceAll(`${pre}f`, "\x1B[97m", text);
+	text = replaceAll(`${pre}k`, "\x1B[6m", text);
 	text = replaceAll(`${pre}l`, "\x1B[1m", text);
 	text = replaceAll(`${pre}m`, "\x1B[9m", text);
 	text = replaceAll(`${pre}n`, "\x1B[4m", text);

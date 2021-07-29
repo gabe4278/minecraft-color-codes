@@ -1,6 +1,6 @@
 {
   "name": "mccolorcodes",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Convert Minecraft color codes to ANSI color/font style in your command line",
   "main": "index.js",
   "scripts": {
